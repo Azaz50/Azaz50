@@ -5,13 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azaz50&label=Profile%20views&color=0e75b6&style=flat" alt="azaz50" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Azaz50](https://github.com/Azaz50)
-
 - 💬 Ask me about **Html, css, Javascript, react.js, vue.js**
 
 - 📫 How to reach me **azazmohammad14@gmail.com**
-
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/u678gvsf7a6ea8rv40vfo/Azaz_Mohammad_Resume.pdf?rlkey=kctl8s1lsg5odz2qxcb0t05dc&dl=0](https://www.dropbox.com/scl/fi/u678gvsf7a6ea8rv40vfo/Azaz_Mohammad_Resume.pdf?rlkey=kctl8s1lsg5odz2qxcb0t05dc&dl=0)
 
 - ⚡ Fun fact **I am cool and funny mind.**
 
