@@ -1,4 +1,4 @@
-![logo]()
+![logo]('https://www.cgc.edu.in/public/images/programs/engg/b%20tech%20computer%20science.jpg')
 <h1 align="center">Hi 👋, I'm Azaz Mohammad</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" />
