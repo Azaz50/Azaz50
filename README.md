@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Html, css, Javascript, react.js, vue.js**
 
-- 📫 How to reach me **azazmohammad14@gmail.com**
-
 - ⚡ Fun fact **I am cool and funny mind.**
 
 <h3 align="left">Connect with me:</h3>
