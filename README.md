@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azaz50&label=Profile%20views&color=0e75b6&style=flat" alt="azaz50" /> </p>
 
-- 💬 Ask me about **Html, css, Javascript, react.js, vue.js**
+- 💬 Ask me about **Html, css, Javascript, react.js, Node.js, Express.js MongoDb, MySql**
 
 - ⚡ Fun fact **I am cool and funny mind.**
 
