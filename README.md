@@ -27,7 +27,7 @@
 <table width="100%" border="0">
   <tr>
     <td width="60%">
-      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" alt="Man Technologist" width="30" /> Professional Summary</h2>
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> Professional Summary</h2>
       <p>Backend-focused Full Stack Developer with experience building enterprise applications including Grocery Distribution Systems, Ride Sharing Platforms, Attendance Management Systems, Finance Locker Platforms, and VoIP Communication Systems.</p>
       <p>Strong expertise in <b>REST APIs, Authentication, RBAC, MongoDB, PostgreSQL, MySQL, Node.js</b>, and <b>Laravel</b>. Experience designing systems handling thousands of users, transactions, and operational workflows.</p>
     </td>
