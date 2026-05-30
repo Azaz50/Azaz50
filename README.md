@@ -1,26 +1,197 @@
-![logo](https://www.cgc.edu.in/public/images/programs/engg/b%20tech%20computer%20science.jpg)
-<h1 align="center">Hi 👋, I'm Azaz Mohammad</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" />
+<div align="center">
+  <img src="Github%20Banner.png" alt="Azaz Mohammad Banner" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azaz50&label=Profile%20views&color=0e75b6&style=flat" alt="azaz50" /> </p>
+  <br />
 
-- 💬 Ask me about **Html, css, Javascript, react.js, Node.js, Express.js MongoDb, MySql**
+  <h1>Hi, I'm Azaz Mohammad 👋</h1>
 
-- ⚡ Fun fact **I am cool and funny mind.**
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Full+Stack+Engineer;Building+scalable+systems;REST+APIs%2C+Databases+%26+Automation" alt="Typing SVG" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/azaz194032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azaz194032" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/azaz-mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azaz-mohammad" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/azaz194032?igsh=y2d5ddg2zxpvn2zn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/azaz194032?igsh=y2d5ddg2zxpvn2zn" height="30" width="40" /></a>
+  <p><strong>Current Focus:</strong> Node.js • Express.js • MongoDB • PostgreSQL • System Design</p>
+  <p>📍 India 🇮🇳 &nbsp;&nbsp;|&nbsp;&nbsp; 🌍 Open to Remote, GCC & Europe Opportunities</p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/azazmohammad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/azazmohammad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:azazmohammad14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+  </p>
+</div>
+
+---
+
+## 👨‍💻 Professional Summary
+
+Backend-focused Full Stack Developer with experience building enterprise applications including Grocery Distribution Systems, Ride Sharing Platforms, Attendance Management Systems, Finance Locker Platforms, and VoIP Communication Systems.
+
+Strong expertise in **REST APIs, Authentication, RBAC, MongoDB, PostgreSQL, MySQL, Node.js**, and **Laravel**. Experience designing systems handling thousands of users, transactions, and operational workflows.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Hoppscotch](https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white)
+
+---
+
+## ⚡ Backend Expertise & System Design
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>Areas of Expertise</h3>
+        <ul>
+          <li>REST API Development & Architecture</li>
+          <li>Authentication & Authorization (JWT)</li>
+          <li>Role Based Access Control (RBAC)</li>
+          <li>Database Design & Query Optimization</li>
+          <li>MongoDB Aggregation Pipelines</li>
+          <li>System Architecture & Multi-Tenant Systems</li>
+          <li>Payment Gateway Integration</li>
+          <li>Automation Workflows & Cron Jobs</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3>Learning & Practicing</h3>
+        <ul>
+          <li>Distributed Systems & Microservices</li>
+          <li>Event Driven Architecture</li>
+          <li>Caching Strategies (Redis)</li>
+          <li>Docker & Containerization</li>
+          <li>Kubernetes</li>
+          <li>CI/CD Pipelines</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>🏢 GMI Grocery Delivery System</h3>
+      <p>Enterprise grocery distribution platform used for warehouse and delivery operations.</p>
+      <ul>
+        <li>Inventory & Transfer Management</li>
+        <li>Multi Warehouse Architecture</li>
+        <li>Stock Adjustment & Purchase Returns</li>
+      </ul>
+      <p><b>Stack:</b> Node.js • Express.js • MongoDB</p>
+    </td>
+    <td width="50%">
+      <h3>🔒 Tsui Finance Locker</h3>
+      <p>Secure serial code generation and distribution platform.</p>
+      <ul>
+        <li>80+ Secure APIs</li>
+        <li>JWT Authentication & RBAC</li>
+        <li>Comprehensive Reporting Dashboard</li>
+      </ul>
+      <p><b>Stack:</b> Node.js • React.js • MySQL</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🚗 Tripo Ride & Delivery Platform</h3>
+      <p>Scalable ride-sharing and delivery ecosystem.</p>
+      <ul>
+        <li>Routing Engine Integration</li>
+        <li>Real-Time Tracking</li>
+        <li>Payment Processing</li>
+      </ul>
+      <p><b>Stack:</b> Laravel • Vue.js • PostgreSQL</p>
+    </td>
+    <td width="50%">
+      <h3>📞 Cloud2Voice</h3>
+      <p>Cloud-based VoIP tracking and communication management platform.</p>
+      <ul>
+        <li>Call Monitoring & Analytics Dashboard</li>
+        <li>CRM Integration</li>
+        <li>Scalable Communication Logs</li>
+      </ul>
+      <p><b>Stack:</b> Laravel • Vue.js • PostgreSQL</p>
+    </td>
+  </tr>
+</table>
+
+### 🔄 Currently Working On
+**GMI Grocery Delivery & Distribution System** — Expanding features with advanced route optimization, robust automation workflows, chron jobs, and sophisticated reporting metrics.
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/azazmohammad">
+    <img src="https://github-readme-stats.vercel.app/api?username=azazmohammad&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="Azaz's GitHub Stats" />
+  </a>
+  <a href="https://github.com/azazmohammad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azazmohammad&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" alt="Top Languages" />
+  </a>
+  <br />
+  <a href="https://github.com/azazmohammad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azazmohammad&theme=transparent&hide_border=true&title_color=2196F3" alt="GitHub Streak" />
+  </a>
+</div>
+
+### 🏆 Coding Profiles
+<p>
+  <a href="https://leetcode.com/u/azazmohammad/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.hackerrank.com/azazmohammad"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://www.codechef.com/users/azazmohammad"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azaz50&show_icons=true&locale=en&layout=compact" alt="azaz50" /></p>
+## 🎯 2026 Open Source Goals
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azaz50&show_icons=true&locale=en" alt="azaz50" /></p>
+- [ ] Contribute to Open Source Projects
+- [ ] Publish Backend Boilerplates
+- [ ] Build & Launch SaaS Products
+- [ ] Share Engineering Articles
+- [ ] Reach 500+ GitHub Contributions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azaz50&" alt="azaz50" /></p>
+---
+
+<div align="center">
+  <h3>Let's Connect & Build Something Amazing!</h3>
+  <p>
+    <a href="mailto:azazmohammad14@gmail.com">azazmohammad14@gmail.com</a> • 
+    <a href="https://linkedin.com/in/azazmohammad">LinkedIn</a> • 
+    <a href="#">Portfolio</a>
+  </p>
+  <br />
+  <img src="https://profile-counter.glitch.me/azazmohammad/count.svg" alt="Visitor Count" />
+</div>
