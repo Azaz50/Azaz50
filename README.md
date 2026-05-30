@@ -32,7 +32,7 @@
       <p>Strong expertise in <b>REST APIs, Authentication, RBAC, MongoDB, PostgreSQL, MySQL, Node.js</b>, and <b>Laravel</b>. Experience designing systems handling thousands of users, transactions, and operational workflows.</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" width="300" />
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding Animation" width="300" />
     </td>
   </tr>
 </table>
