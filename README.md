@@ -11,10 +11,10 @@
   <p>📍 India 🇮🇳 &nbsp;&nbsp;|&nbsp;&nbsp; 🌍 Open to Remote, GCC & Europe Opportunities</p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/azazmohammad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/azazmohammad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/azaz-mohammad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/Azaz50"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="mailto:azazmohammad14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://azaz50.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
   </p>
 </div>
 
@@ -154,10 +154,10 @@ Strong expertise in **REST APIs, Authentication, RBAC, MongoDB, PostgreSQL, MySQ
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/azazmohammad">
+  <a href="https://github.com/Azaz50">
     <img src="https://github-readme-stats.vercel.app/api?username=azazmohammad&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="Azaz's GitHub Stats" />
   </a>
-  <a href="https://github.com/azazmohammad">
+  <a href="https://www.linkedin.com/in/azaz-mohammad/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azazmohammad&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" alt="Top Languages" />
   </a>
   <br />
@@ -168,14 +168,14 @@ Strong expertise in **REST APIs, Authentication, RBAC, MongoDB, PostgreSQL, MySQ
 
 ### 🏆 Coding Profiles
 <p>
-  <a href="https://leetcode.com/u/azazmohammad/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://www.hackerrank.com/azazmohammad"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://www.codechef.com/users/azazmohammad"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
+  <a href="https://leetcode.com/u/azaz14/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.hackerrank.com/profile/azazmohammad14"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://www.codechef.com/users/azaz50"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
 </p>
 
 ---
 
-## 🎯 2026 Open Source Goals
+<!-- ## 🎯 2026 Open Source Goals
 
 - [ ] Contribute to Open Source Projects
 - [ ] Publish Backend Boilerplates
@@ -183,14 +183,14 @@ Strong expertise in **REST APIs, Authentication, RBAC, MongoDB, PostgreSQL, MySQ
 - [ ] Share Engineering Articles
 - [ ] Reach 500+ GitHub Contributions
 
----
+--- -->
 
 <div align="center">
   <h3>Let's Connect & Build Something Amazing!</h3>
   <p>
     <a href="mailto:azazmohammad14@gmail.com">azazmohammad14@gmail.com</a> • 
-    <a href="https://linkedin.com/in/azazmohammad">LinkedIn</a> • 
-    <a href="#">Portfolio</a>
+    <a href="https://www.linkedin.com/in/azaz-mohammad/">LinkedIn</a> • 
+    <a href="https://azaz50.github.io/portfolio/">Portfolio</a>
   </p>
   <br />
   <img src="https://profile-counter.glitch.me/azazmohammad/count.svg" alt="Visitor Count" />
